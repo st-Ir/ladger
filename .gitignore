@@ -1,0 +1,11 @@
+/node_modules
+/.next
+/out
+/build
+*.tsbuildinfo
+next-env.d.ts.timestamp
+.DS_Store
+.env*.local
+npm-debug.log*
+# Per-account ledgers written by /api/state — real financial data, never commit.
+/.data
